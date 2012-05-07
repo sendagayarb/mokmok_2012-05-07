@@ -7,3 +7,10 @@
 
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
 * [Sendagaya.rb #2](http://www.zusaar.com/event/281003)
+
+# KPT
+##Keep
+* 開催できた。
+* モチベーション上がる。
+##Problem
+##Try
