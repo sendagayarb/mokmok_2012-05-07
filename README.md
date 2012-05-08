@@ -1,6 +1,6 @@
 # mokmok_2012-05-07
 
-![sendagaya.rb logo](http://ppworks.info/images/sendagaya.png)
+![sendagaya.rb logo](http://ppworks.info/images/sendagayarb100x100.png)
 
 みんなで集まって、各自自分が勉強したいものとか、作りたいものをやりましょう！
 毎回終わりの15分〜30分ぐらいにheroku devcenterの読書会もしようと思ってます。
