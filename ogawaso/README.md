@@ -4,6 +4,7 @@
 * twitterでログインまでできた
 * 401エラーではまった
 * https://dev.twitter.com/ settingのCallback URLを適当に設定するのが重要
+* https://github.com/ogawaso/omniauth_study に定義
 
 # 自分のKPT
 ## KEEP
